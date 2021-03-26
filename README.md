@@ -1,2 +1,0 @@
-# DrimTim
-kekw lol lmao 
