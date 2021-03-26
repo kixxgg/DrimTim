@@ -6,6 +6,8 @@ body {
 	-webkit-font-smoothing: antialiased;
 
 	background-color: #fff;
+	overflow-x: hidden;
+
 	/*font-family: 'Akaya Telivigala', cursive;*/
 }
 
