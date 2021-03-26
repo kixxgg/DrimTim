@@ -512,7 +512,8 @@ p {
 	padding: 9px 2px;
 
 	cursor: pointer;
-
+	outline: none;
+	
 	background: none;
 	border: 0;
 }
