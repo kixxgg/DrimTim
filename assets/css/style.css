@@ -527,6 +527,7 @@ p {
 	height: 3px;
 
 	background-color: #fff;
+	outline: none;
 
 	font-size: 0;
 	color: transparent;
