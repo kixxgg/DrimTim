@@ -517,6 +517,10 @@ p {
 	border: 0;
 }
 
+.burger:focus {
+	outline: none;
+}
+
 .burger__item {
 	display: block;
 	width: 30px;
